@@ -1,0 +1,224 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Sports",
+            "clues_count": 8,
+            "clues": [
+                {
+                    "id": 1,
+                    "answer": "Ranji Trophy",
+                    "question": "This was cancelled in 87 years to hold the Hazare Trophy",
+                    "category_id": 1892
+                },
+                {
+                    "id": 2,
+                    "answer": "Mumbai Indians",
+                    "question": "Lasith Malinga quit this IPL franchise",
+                    "category_id": 1892
+                },
+                {
+                    "id": 3,
+                    "answer": "Jay Shah",
+                    "question": "Asian Cricket Council President elected in January 2021",
+                    "category_id": 1892
+                },
+                {
+                    "id": 4,
+                    "answer": "Novak Djokovic",
+                    "question": "This tennis player from Serbia defeated Medvedev to win his 9th Australian open title",
+                    "category_id": 189
+                },
+                {
+                    "id": 5,
+                    "answer": "Yusuf Pathan",
+                    "question": "This cricketer announced retirement from all forms of cricket in Feb 2021",
+                    "category_id": 1892
+                },
+                {
+                    "id": 6,
+                    "answer": "Mithali Raj",
+                    "question": "She is the first Indian Woman Cricketer to score 10k International runs",
+                    "category_id": 1892
+                },
+                {
+                    "id": 7,
+                    "answer": "Virat Kohli",
+                    "question": "First Indian cricketer to hit 100M followers on Instagram",
+                    "category_id": 1892
+                },
+                {
+                    "id": 8,
+                    "answer": "Narendra Modi Stadium",
+                    "question": "Newly-built world's largest Motera Stadium has been renamed",
+                    "category_id": 1892
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Technology",
+            "clues_count": 8,
+            "clues": [
+                {
+                    "id": 1,
+                    "answer": "SpaceX",
+                    "question": "This aerospace company will launch first all-civilian astronaut mission to orbit in late 2021",
+                    "category_id": 4483
+                },
+                {
+                    "id": 2,
+                    "answer": "This spacecraft from China sent back Mars video footage for the first time in Feb 2021  ",
+                    "question": "Tianwen-1",
+                    "category_id": 4483
+                },
+                {
+                    "id": 3,
+                    "answer": "Chandrayaan-3",
+                    "question": "Launch of the this Lunar probe mission was delayed further to 2022 due to COVID-19 pandemic",
+                    "category_id": 4483
+                },
+                {
+                    "id": 4,
+                    "answer": "France",
+                    "question": "India started with this country in their third joint space mission in March 2021",
+                    "category_id": 4483
+                },
+                {
+                    "id": 5,
+                    "answer": "Molecular sensor",
+                    "question": "Researchers recently developed this for identifying cancer drugs",
+                    "category_id": 4483
+                },
+                {
+                    "id": 6,
+                    "answer": "Hyderabad",
+                    "question": "Virchow Biotech and RDIF to produce Sputnik V Vaccine in India are based in this city.",
+                    "category_id": 4483
+                },
+                {
+                    "id": 7,
+                    "answer": "Premas Biotech",
+                    "question": "This Indian company to develop COVID-19 vaccine pill",
+                    "category_id": 4483
+                },
+                {
+                    "id": 8,
+                    "answer": "Russia",
+                    "question": "This country launched 38 foreign satellites from 18 countries in March 2021",
+                    "category_id": 4483
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Movies",
+            "clues_count": 8,
+            "clues": [
+                {
+                    "id": 1,
+                    "answer": "Mammootty and Manju Warrier",
+                    "question": "The Priest marks the first collaboration of these actors in their career",
+                    "category_id": 88
+                },
+                {
+                    "id": 2,
+                    "answer": "Saina",
+                    "question": "Female badminton player based movie",
+                    "category_id": 88
+                },
+                {
+                    "id": 3,
+                    "answer": "83",
+                    "question": "Ranveer Singh movie based on the Indian win of Cricket World cup 1983",
+                    "category_id": 88
+                },
+                {
+                    "id": 4,
+                    "answer": "R Madhavan",
+                    "question": "Movie Rocketry has in lead",
+                    "category_id": 88
+                },
+                {
+                    "id": 5,
+                    "answer": "99 Songs",
+                    "question": "This movie is co-written and produced by AR Rehman",
+                    "category_id": 88
+                },
+                {
+                    "id": 6,
+                    "answer": "Action Fantasy ",
+                    "question": "Mortal Kombat is based on this genre",
+                    "category_id": 88
+                },
+                {
+                    "id": 7,
+                    "answer": "Jayalalithaa",
+                    "question": "Thalaivi is based on the life of this politician",
+                    "category_id": 88
+                },
+                {
+                    "id": 8,
+                    "answer": "Malayalam",
+                    "question": " Nizhal movie is in this language",
+                    "category_id": 88
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Editorial",
+            "clues_count": 8,
+            "clues": [
+                {
+                    "id": 1,
+                    "answer": "Aravallis",
+                    "question": "why India must protect this",
+                    "category_id": 218
+                },
+                {
+                    "id": 2,
+                    "answer": "water security",
+                    "question": "the quest for all Indians",
+                    "category_id": 218
+                },
+                {
+                    "id": 3,
+                    "answer": "mumbai",
+                    "question": "a dark nexus in",
+                    "category_id": 218
+                },
+                {
+                    "id": 4,
+                    "answer": "Democracy",
+                    "question": "In Bihar, a blot on ",
+                    "category_id": 218
+                },
+                {
+                    "id": 5,
+                    "answer": "China",
+                    "question": "Biden lays out his line on",
+                    "category_id": 218
+                },
+                {
+                    "id": 6,
+                    "answer": "migrant workers",
+                    "question": "fast-track database on ",
+                    "category_id": 218
+                },
+                {
+                    "id": 7,
+                    "answer": "Myanmar",
+                    "question": "a message to this country from HT",
+                    "category_id": 218
+                },
+                {
+                    "id": 8,
+                    "answer": "resolution",
+                    "question": "Farm protests need ",
+                    "category_id": 218
+                }
+            ]
+        }
+    ]
+}
